@@ -1,0 +1,3 @@
+word	normalized spelling	pos sequence	semantic category	# of instances of head	accuracy	head of complex modifier	Complement of complex modifier
+TEST	test	VERB	among		atleast	test	
+True	true	ADV	between	134			
